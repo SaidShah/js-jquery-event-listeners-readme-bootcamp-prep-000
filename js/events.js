@@ -17,7 +17,7 @@ function getIt(){
 function frameIt(){
   
   $(`img`).on(`load`,function(){
-    $(`img`).append(`#tasty`)
+    $(`img`).append(`src:#tasty`)
   })
   
 }
