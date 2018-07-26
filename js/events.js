@@ -29,11 +29,14 @@ function pressIt(){
       alert("G key was pressed")
     }
   })
+}
+
+function submitIt(){
+  
+  
   
   
 }
-
-
 
 
 
