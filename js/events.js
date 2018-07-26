@@ -12,3 +12,14 @@ function getIt(){
     alert("Hey!")
   })
 }
+
+
+function frameIt(){
+  
+  $(document).on(`load`,function(){
+    
+  })
+  
+}
+
+
